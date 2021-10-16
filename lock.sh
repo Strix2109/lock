@@ -30,12 +30,12 @@ GREEN='\033[0;32m'
 BLUE='\033[0;34m'
 printf "${RED}"
 printf "${GREEN}"
-print_centered "LOCKPHISH v1.0"
+print_centered "LOCKPHISH TOOL"
 printf "${BLUE}"
-print_centered "WhiteDevil"
+print_centered "STRIX.D"
 printf "${RED}"
 print_centered "Disclaimer:"
-print_centered "This is only meant for educational purpose."
+print_centered "This tool is for educational purpose."
 print_centered "Do not Use This To Harm Others."
 print_centered "I Am Not Responsible For The Misuse Of The Script."
 printf "\n"
@@ -64,7 +64,7 @@ exit 1
 dependencies() {
 
 
-command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
+command -v php > /dev/null 2>&1 || { echo >&2 "It require php but it's not installed. Install it. Aborting."; exit 1; }
  
 
 
