@@ -1,4 +1,4 @@
-# LOckphish Tool (Make phishing page for lock screen)
+# Lockphish Tool (Make phishing page for lock screen)
 
 ### Features- 
 
