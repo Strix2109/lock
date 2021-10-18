@@ -11,5 +11,5 @@
 ```
 git clone https://github.com/Strix2109/lock.git
 cd lock
-bash lockphish.sh
+bash lock.sh
 ```
