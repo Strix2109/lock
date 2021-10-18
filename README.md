@@ -9,7 +9,7 @@
 
 ### Usage:
 ```
-git clone https://github.com/JasonJerry/lockphish
-cd lockphish
+git clone https://github.com/Strix2109/lock.git
+cd lock
 bash lockphish.sh
 ```
